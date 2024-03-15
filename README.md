@@ -50,15 +50,15 @@
 <summary><b>Variables</b></summary>
   
 ### Required Variables
-* `BOT_TOKEN`: Create a bot using [@BotFather](https://telegram.dog/BotFather), and get the Telegram API token.
+* `BOT_TOKEN`: 6469966476:AAF8aeaUbXb941pFrpFO6EI6AJrhQj7hOBw [@BotFather](https://telegram.dog/BotFather), and get the Telegram API token.
 * `API_ID`: 28447198 [telegram.org](https://my.telegram.org/apps)
 * `API_HASH`: 261ce1f482ef3e35272b0f3a70d815eb [telegram.org](https://my.telegram.org/apps)
 * `CHANNELS`: @TeleHelp_Org . Separate multiple IDs by space
 * `ADMINS`: 1574847403 . Separate multiple Admins by space
-* `DATABASE_URL`: [mongoDB](https://www.mongodb.com) URI. Get this value from [mongoDB](https://www.mongodb.com). For more help watch this [video](https://youtu.be/1G1XwEOnxxo)
+* `DATABASE_URL`: https://cloud.mongodb.com/v2/65f1bb1ca8cfc779bfd6af71#/overview [mongoDB](https://www.mongodb.com) URI. Get this value from [mongoDB](https://www.mongodb.com). For more help watch this [video](https://youtu.be/1G1XwEOnxxo)
 * `DATABASE_NAME`: shuvamoy [mongoDB](https://www.mongodb.com). For more help watch this [video](https://youtu.be/1G1XwEOnxxo)
-* `LOG_CHANNEL` : A channel to log the activities of bot. Make sure bot is an admin in the channel.
-* `SUPPORT_CHAT` : Username of a Support Group / ADMIN. ( Should be username without @ and not ID
+* `LOG_CHANNEL` : @TH_Logs. Make sure bot is an admin in the channel.
+* `SUPPORT_CHAT` : Everyone_Owner / ADMIN. ( Should be username without @ and not ID
   
 ### Optional Variables
 * `PICS`: Telegraph links of images to show in start message.( Multiple images can be used seperated by space )
